@@ -1,5 +1,3 @@
-# reddit-download-wiki
-
 Download the content of a subreddit's wiki, presumably for archival.
 
 Each page’s file looks like:
